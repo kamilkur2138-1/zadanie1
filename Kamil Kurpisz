@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>MÓJ ULUBIONY ARTYSTA</title>
+    </head>
+    <body>
+       
+      
+        <div class="tytul"> TACO HEMIGWAY </div> 
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+       
+       <div class="podstrona1">
+        <a href="podstrona1.html">
+            KIM JEST TACO HEMIGWAY 
+        </a>
+    </div>
+    
+    <br>
+    <div class="pasek1">.</div>
+    <br>
+    
+    <div class="podstrona2">
+         <a href="podstrona2.html">
+                ALBUMY
+            </a>
+        </div>
+
+        <br>
+        <div class="pasek2">.</div>
+        <br>
+        
+        <div class="podstrona3">
+        
+          <a href="podstrona3.html">
+            ZDJĘCIA
+          </a>
+      </div>
+      
+      <br>
+      <div class="pasek1">.</div>
+      <br>
+
+      <div class="text"> WIĘCEJ INFORMACJI O TACO</div>
+      
+     
+      <table id="tabelka">    
+            
+        <tr>
+          <td>Życiorys i kariera</td>
+          <td><a href="https://zyciorysy.pl/biografia/taco-hemingway/">życiorysy.pl</a></td>
+        </tr>
+        <tr>
+          <td>Nagrody i wyróżnienia</td>
+          <td> <a href="https://pl.wikipedia.org/wiki/Taco_Hemingway#Nagrody_i_wyr%C3%B3%C5%BCnienia">Wikipedia</a></td>
+        </tr>
+        <tr>
+          <td>Trasy koncertowe</td>
+          <td> <a href="https://pl.wikipedia.org/wiki/Taco_Hemingway#Trasy_koncertowe">Wikipedia</a></td>
+        </tr>
+        <tr>
+          <td>Wizerunek medialny</td>
+          <td> <a href="https://pl.wikipedia.org/wiki/Taco_Hemingway#Wizerunek_medialny">Wikipedia</a></td>
+        </tr>
+      
+<br>
+
+
+
+    </body>
+</html>
